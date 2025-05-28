@@ -26,7 +26,7 @@ Build a one-page website about a hobby or interest. The site should include:
 
 ### Technical requirements
 
-- Use **only semantic HTML elements** (<header>, <main>, <section>, <footer>, <ul>, <ol>, <table>, etc.)
+- Use **only semantic HTML elements**
 - Do not use CSS or JavaScript
 - Use <div> only if no other semantic element is suitable, and explain its use in a comment
 - Keep the code clean, readable, and well-structured
